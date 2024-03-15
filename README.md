@@ -1,4 +1,4 @@
-# flask-init-min
+# flask-init-mini
 
 This project is a boilerplate for future Flask applications.
 
