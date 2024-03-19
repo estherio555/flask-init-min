@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "us-east-2",
+        "profile_name": "default",
+        "project_name": "api",
+        "runtime": "python3.10",
+        "s3_bucket": "zappa-rds-api",
+        "slim_handler": true,
+        "iam_authorization": true
+    }
+}
